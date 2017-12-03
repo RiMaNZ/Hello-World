@@ -1,2 +1,2 @@
 # Hello-World
-Just an Hello World kinda work.
+Just an Hello World kind of work.
